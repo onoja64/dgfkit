@@ -1,6 +1,6 @@
 {
-  "name": "@onoja64/DGF",
-  "version": "0.10.2",
+  "name": "@onoja64/dgfuikit",
+  "version": "0.10.22",
   "description": "Set of UI components for DGF projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
